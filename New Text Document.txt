@@ -1,1 +1,8 @@
 Hola Amigos!
+
+"widget/Product Details Widget/js/product-details.js"
+"widget/Product Details Tab/js/airborn-product-details-tab.js"
+"widget/Product Listing Widget/js/airborn-product-listing.js"
+"widget/Left Hand Navigation/js/left-hand-guided-navigation.js"
+"widget/Product Series Widget/js/product-series.js"
+"widget/Top Menu/js/topMenu.js"
